@@ -9,8 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chai": "^3.5.0",
     "mocha": "^2.5.3",
-    "selenium-webdriver": "^2.53.2"
+    "selenium-webdriver": "PUT LOCAL COPY HERE"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
